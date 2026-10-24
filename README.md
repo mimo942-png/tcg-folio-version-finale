@@ -1,0 +1,1 @@
+# tcg-folio-version-finale
